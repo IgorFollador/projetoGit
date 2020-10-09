@@ -6,3 +6,4 @@ Arquivos:
 1. HelloWorld.cpp
 
 Funcionalidades:
+Adiconada saída "Hello World".
