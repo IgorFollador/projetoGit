@@ -1,0 +1,8 @@
+Aqui estara todas as informações do projetoGit
+
+**********************************************
+
+Arquivos:
+1. HelloWorld.cpp
+
+Funcionalidades:
